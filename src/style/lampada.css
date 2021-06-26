@@ -1,0 +1,31 @@
+body {
+    background-color: #666970;
+    padding: 20px;
+}
+
+p {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    margin: 30px 0 0 0;
+}
+
+.lamp {
+    display: flex;
+    justify-content: center;
+}
+
+.button-lamp {
+    display: flex;
+    justify-content: center;
+}
+
+.button-lamp input {
+    cursor: pointer;
+    background-color: black;
+    border: 0;
+    padding: 10px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 10px;
+}
